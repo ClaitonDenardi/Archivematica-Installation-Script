@@ -13,6 +13,6 @@
 **Leia o guia de pós-instalação no site do archivematica para mais detalhes -> [post-install](https://www.archivematica.org/en/docs/archivematica-1.6/admin-manual/installation/installation/#post-install-config)** 
 
 ### Importante!!!
-* É de extrema importância que o script seja executado em um Ubuntu "zerado", sem demais programas instalados, pois os mesmos podem conflitar com algum processo da instalação.
+* Se a script não funcionou em seu sistema execute o mesmo em uma instalação "zerada" do Ubuntu 14.04, sem demais programas instalados, pois os mesmos podem conflitar com algum processo da instalação.
 
 ![Archivematica](https://wiki.archivematica.org/images/a/a8/ArchivematicaTranslucent.png)   
