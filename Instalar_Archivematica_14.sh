@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script de Instalação Archivematica
-# Claiton Denardi Paulus
+# Claiton Denardi Paulus & Luis Henrique Medeiros
 # BaseGED_2018/1
 
 #Atualizar o repositorio
