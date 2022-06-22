@@ -28,5 +28,3 @@ E ``sudo ./ Archivematica1.6.1_Ubuntu14.04.sh``
 
 ### Importante!!!
 * Se algum dos scripts não funcionou em seu sistema execute o mesmo em uma instalação "zerada" do Ubuntu na versão desejada, sem demais programas instalados, pois os mesmos podem conflitar com algum processo da instalação.
-
-![Archivematica](https://wiki.archivematica.org/images/a/a8/ArchivematicaTranslucent.png)   
